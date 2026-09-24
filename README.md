@@ -66,7 +66,7 @@ The dashboard provides visibility into:
 
 Tickets follow the following workflow:
 
-```text
+
 OPEN
   ↓
 IN_PROGRESS
@@ -77,3 +77,20 @@ RESOLVED
   ↓
 CLOSED
 
+--------------------------------------------------------------------------------------------------------------------------
+Future Scope
+1. Role-Based Access Control
+
+Different access levels for:
+
+STUDENT
+STAFF
+MANAGER
+
+For example:
+
+Student → Create and view own tickets
+
+Staff → Manage assigned tickets
+
+Manager → View all tickets and management dashboard
